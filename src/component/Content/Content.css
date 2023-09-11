@@ -1,0 +1,54 @@
+.content {
+    background-color: rgb(247, 247, 247);
+}
+.hero {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+    padding: 50px 90px;
+}
+
+.welcome {
+    background-color: rgb(227, 248, 241);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.peserta {
+    background-color: rgb(227, 248, 241);
+    padding: 40px;
+    border-radius: 10px;
+}
+
+.event {
+    padding: 50px 90px;
+}
+
+.cardEvent {
+    margin-top: 30px;
+    padding: 10px;
+    width: 350px;
+    border: 1px solid rgb(233, 233, 233);
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 2px 3px 3px 3px rgb(230, 230, 230);
+
+}
+
+.cardEvent img {
+    width: 30%
+}
+
+.cardEvent a {
+    text-decoration: none;
+    color: rgb(119, 209, 209);
+}
+
+.tgl {
+    margin-top: 5px;
+    
+}
+
+.desc {
+    color: rgb(180, 180, 177);
+}
