@@ -2,6 +2,14 @@ import React from "react";
 import "./Login.css";
 
 export default function Login() {
+  //   const [peserta, setPeserta] = useState([]);
+  //   useEffect(() => {
+  //     getAllData();
+  //   }, []);
+  //   const getAllData = async () => {
+  //     const response = await axios.get(`http://117.53.47.120:3018`);
+  //     setPeserta(response.data);
+  //   };
   return (
     <div className="form">
       <div className="mb-3">

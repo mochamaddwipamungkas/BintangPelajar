@@ -3,14 +3,6 @@ import axios from "axios";
 import "./Content.css";
 
 export default function Content() {
-  //   const [peserta, setPeserta] = useState([]);
-  //   useEffect(() => {
-  //     getAllData();
-  //   }, []);
-  //   const getAllData = async () => {
-  //     const response = await axios.get(`http://117.53.47.120:3018`);
-  //     setPasiens(response.data);
-  //   };
   return (
     <div className="content">
       <div className="hero">
